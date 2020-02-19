@@ -9,6 +9,7 @@ The range of skills, tools and techniques utilised to accomplish specific tasks,
 - Becomes more time focussed
 - Quick results motivate you more
 - Works best along with a calendar – visual mark up of time-boxing
+
 <b>Good meetings</b>
 - Selecting who’s invited – don’t waste people’s time
 - Set goals/objectives for the meeting
@@ -24,8 +25,8 @@ The number one rule:
 
 The process of managing a task during its lifecycle, including planning, tracking and reporting
 
-<b>The Eisenhower Model</b>
-How urgent is this task? How important is this task?”
+<b>The Eisenhower Model</b> -
+<i>How urgent is this task? How important is this task?” </i>
 
 - Urgent+Important = Necessity
 - Not urgent + important = Quality
