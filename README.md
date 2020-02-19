@@ -23,7 +23,7 @@ Bash is short for the "Bourne again shell", and is used to control a UNIX-based 
 - <b>ECHO</b> - Used to outpu text in the console.
 - <b>CAT</b> - Used to print text from a file, or to combine multiple files. (Short for Concatenate)
 - <b>OPEN</b> - Used to open a program from the current directory
-- <b>CLEAR</b>s - Used to clear the console
-- <b>MV</b> - Used to change the location of a file or directory. This can also be used to change the name of a file/directory by "moving" it to an non-extant directory. 
+- <b>CLEAR</b> - Used to clear the console
+- <b>MV</b> - Used to change the location of a file or directory. This can also be used to change the name of a file/directory by "moving" it to an non-extant directory.
 
 It's also worth noting that the ~ symbol is used to represent the home directory, and / is used to represent the root directory. For example, <i>CD ~</i> will send the user to the home directory.
