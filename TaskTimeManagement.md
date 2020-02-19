@@ -24,7 +24,7 @@ The number one rule:
 
 The process of managing a task during its lifecycle, including planning, tracking and reporting
 
-### <i>The Eisenhower Model</i>
+<b>The Eisenhower Model</b>
 How urgent is this task? How important is this task?”
 
 - Urgent+Important = Necessity
