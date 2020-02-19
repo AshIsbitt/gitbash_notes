@@ -9,12 +9,14 @@
 - <b> git add</b> - Used to add a file to the repo, most commonly in conjunction with the . modifier to select all files
 - <b>git commit</b> - Used to commit changes to the log. Requires a -m modifier with a common sense description of the commit.
 - <b>git log</b> - Used to see a list of previous commits
-- <b>git remote</b> - Used to see the remote repo linked to the current git repo.
 
 <i>note that the below commands are only relevant if using Github - other git clients will use different commands</i>
 
+- <b>git remote</b> - Used to see the remote repo linked to the current git repo. If used with --v, you can see the Verbose version of the current location. You can also use this to add a github remote location.
 - <b>git push</b> - Used to push commits up to the remote repo
 - <b>git pull</b> - Used to pull the changes to a remote repo down to the local device.
+
+Go to <[Github](https://github.com/new)> to create a new Repo. Github will walk you through the process. 
 
 ## Bash
 Bash is short for the "Bourne again shell", and is used to control a UNIX-based OS through a Command Line Interface. As with Git, there are a number of commands that allow for a range of functionality.
