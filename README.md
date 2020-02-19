@@ -16,7 +16,7 @@
 - <b>git push</b> - Used to push commits up to the remote repo
 - <b>git pull</b> - Used to pull the changes to a remote repo down to the local device.
 
-Go to <[Github](https://github.com/new)> to create a new Repo. Github will walk you through the process. 
+Go to <[Github](https://github.com/new)> to create a new Repo. Github will walk you through the process.
 
 ## Bash
 Bash is short for the "Bourne again shell", and is used to control a UNIX-based OS through a Command Line Interface. As with Git, there are a number of commands that allow for a range of functionality.
@@ -25,8 +25,8 @@ Bash is short for the "Bourne again shell", and is used to control a UNIX-based 
 - <b>CD</b> - Used to change directory location. This can be with an absolute or relative path.
 - <b>LS</b> - Used to list the contents of the current directory
 - <b>MKDIR</b> - Used to create a new directory
-- <b>TOUCH</b> - Used to make a new file. Any file extention can be specified.
-- <b>ECHO</b> - Used to outpu text in the console.
+- <b>TOUCH</b> - Used to make a new file. Any file extension can be specified.
+- <b>ECHO</b> - Used to output text in the console.
 - <b>CAT</b> - Used to print text from a file, or to combine multiple files. (Short for Concatenate)
 - <b>OPEN</b> - Used to open a program from the current directory
 - <b>CLEAR</b> - Used to clear the console
